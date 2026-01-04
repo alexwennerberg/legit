@@ -1,5 +1,5 @@
 repo:
-  scanPath: /var/www/git
+  scanPath: /var/git
   readme:
     - readme
     - README
